@@ -53,7 +53,7 @@ code {
 .list-group-item:first-child, .list-group-item:last-child {
     border-radius: 0;
 }
-/*--------------scroll------------------*/ 
+/*--------------scroll------------------*/
 .scroll {
     -ms-overflow-style: none;
     overflow: -moz-scrollbars-none;
@@ -94,6 +94,10 @@ code {
     border-radius: 35px;
     width: 70px;
     height: 70px;
+}
+
+#description {
+    color: #DDDDDD;
 }
 
 #category-list {
