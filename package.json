@@ -7,7 +7,8 @@
   },
   "license": "GPL",
   "author": {
-    "email": "account@lialun.io"
+    "name": "Doc Rinehart",
+    "email": "test@test.test"
   },
   "config": {
     "posts_per_page": 12
